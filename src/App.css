@@ -7,17 +7,7 @@
   font-family: "Lato", sans-serif;
 }
 
-.home,
-.reports,
-.products {
-  display: flex;
-  height: 90vh;
-  align-items: center;
-  justify-content: center;
-  font-size: 3rem;
-  background-color: #000;
-  color: #fff;
-}
+
 
 /* Navbar CSS */
 .navbar {
@@ -94,3 +84,20 @@
 span {
   margin-left: 16px;
 }
+.icon{
+  position: absolute;
+  top:20px;
+}
+@keyframes move {
+  100% {
+      transform: translate3d(0, 0, 1px) rotate(360deg);
+  }
+}
+/* .background{
+  background-image: url("../src/components/assets/image2.gif");
+  height: 100%;
+} */
+
+
+
+
