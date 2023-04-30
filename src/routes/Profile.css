@@ -1,4 +1,4 @@
-/* body {
+body {
   font-family: 'Raleway', sans-serif;
   background-color: #e7e7e7;
 }
@@ -29,7 +29,7 @@
   display: none;
   transition: all 0.5s ease-in-out;
   transition-delay: 0.3s;
-
+}
   a, a:visited {
       font-size: 36px;
       color: #fff;
@@ -83,7 +83,7 @@
       color: #fff;
       margin-left: 30px;
   }
-}
+
 
 .cta {
   width: 60px;
@@ -109,18 +109,18 @@
   padding: 10%;
   box-sizing: border-box;
   text-align: center;
-
+}
   h1 {
       font-size: 42px;
       margin-top: 10%;
       color: #696a86;
-
+  }
       span {
           color: #333;
           font-weight: bolder;
           
       }
-  }
+  
 
   button {
       height: 40px;
@@ -134,7 +134,7 @@
       cursor: pointer;
       outline: none;
   }
-}
+
 
 .show-hide {
   display: block;
@@ -142,4 +142,4 @@
 
 .expand {
   transform: translateY(300px);
-} */
+}

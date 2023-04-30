@@ -1,31 +1,31 @@
-import React from 'react'
- import "./Profile.css"
-function Profile() {
-  return (
-    <div>
-   <div class="wrapper">
-  <div class="login-text">
-    <button class="cta"><i class="fas fa-chevron-down fa-1x"></i></button>
-    <div class="text">
-      <a href="">Login</a>
-      <hr/>
-      <br/>
-      <input type="text" placeholder="Username"/>
-      <br/>
-      <input type="password" placeholder="Password"/>
-      <br/>
-      <button class="login-btn">Log In</button>
-      <button class="signup-btn">Sign Up</button>
-    </div>
-  </div>
-  <div class="call-text">
-    <h1>Show us your <span>creative</span> side</h1>
-    <button>Join the Community</button>
-  </div>
+// import React from 'react'
+//  import "./Profile.css"
+// function Profile() {
+//   return (
+//     <div>
+//    <div class="wrapper">
+//   <div class="login-text">
+//     <button class="cta"><i class="fas fa-chevron-down fa-1x"></i></button>
+//     <div class="text">
+//       <a href="">Login</a>
+//       <hr/>
+//       <br/>
+//       <input type="text" placeholder="Username"/>
+//       <br/>
+//       <input type="password" placeholder="Password"/>
+//       <br/>
+//       <button class="login-btn">Log In</button>
+//       <button class="signup-btn">Sign Up</button>
+//     </div>
+//   </div>
+//   <div class="call-text">
+//     <h1>Show us your <span>creative</span> side</h1>
+//     <button>Join the Community</button>
+//   </div>
 
-</div>
-    </div>
-  )
-}
+// </div>
+//     </div>
+//   )
+// }
 
-export default Profile
+// export default Profile
